@@ -1,0 +1,11 @@
+{
+  "batch_size": 50,
+  "delay_between_searches": 5,
+  "max_wait_time": 60,
+  "auto_save_interval": 10,
+  "max_retries": 3,
+  "start_from_index": 0,
+  "enable_progress_report": true,
+  "headless_mode": false,
+  "concurrent_searches": 1
+}
