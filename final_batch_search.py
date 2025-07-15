@@ -323,7 +323,7 @@ class FinalBatchSearch:
         companies = []
         
         try:
-            with open("companylist2.md", 'r', encoding='utf-8') as f:
+            with open("incomplete_companies_20250711_145854.md", 'r', encoding='utf-8') as f:
                 for line in f:
                     company = line.strip()
                     if company and not company.startswith('#'):
